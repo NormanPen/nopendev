@@ -1,0 +1,26 @@
+{
+    "about": {
+      "text1": "Über mich",
+      "text2": "Moin, ich bin ein Webentwickler aus Hamburg, der Perle Deutschlands.",
+      "text3": "Seit ich das erste Mal das fiepende Geräusch eines 56k Modems gehört habe, war ich fasziniert vom Internet. Meine erste Seite habe ich mit 14 erstellt und Informatik war neben Kunst mein absolutes Lieblingsfach. Am Programmieren fasziniert mich, dass man als Entwickler immer etwas neues dazu lernt und im Team komplexe Probleme löst.",
+      "text4": "In meiner Freizeit ziehe ich mir am liebsten meine Nikes an und gehe laufen. Außerdem gehe ich gerne auf Konzerte und Festivals."
+    },
+    "skills": {
+      "heading": "Fähigkeiten",
+      "text1": "'Das Fluchen ist die einzige Sprache, die jeder Programmierer beherrscht.'"
+    },
+    "contact": {
+      "heading": "Kontakt",
+      "text1": "Neugierig geworden, dann kontaktieren Sie mich doch einfach."
+    },
+    "footer": {
+      "heading": "Social"
+
+    },"imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "navigation": {
+      "about": "Über mich",
+      "skills": "Fähigkeiten",
+      "contact": "Kontakt"
+    }
+  }

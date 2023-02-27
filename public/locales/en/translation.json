@@ -1,0 +1,26 @@
+{
+    "about": {
+      "text1": "About me",
+      "text2": "Moin, I am a web developer from Hamburg, the pearl of Germany.",
+      "text3": "Ever since I first heard the beeping sound of a 56k modem, I was fascinated by the internet. I created my first website when I was 14 and computer science was my favourite subject next to art. What fascinates me about programming is that as a developer you always learn something new and solve complex problems in a team.",
+      "text4": "In my free time, I like to put on my Nikes and go running. I also like going to concerts and festivals."
+    },
+    "skills": {
+      "heading": "Skills",
+      "text1": "'Swearing is the only language that every programmer knows.'"
+    },
+    "contact": {
+      "heading": "Contact",
+      "text1": "If you are curious, please contact me."
+    },
+    "footer": {
+      "heading": "Social"
+    },"imprint": "Imprint",
+    "privacy": "Privacy",
+    "navigation": {
+      "about": "About",
+      "skills": "Skills",
+      "contact": "Contact"
+
+    }
+  }
