@@ -17,10 +17,10 @@
       "heading": "Social"
 
     },"imprint": "Impressum",
-    "privacy": "Datenschutz",
     "navigation": {
       "about": "Über mich",
       "skills": "Fähigkeiten",
       "contact": "Kontakt"
-    }
+    },
+    "privacy": "Datenschutz"
   }
